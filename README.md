@@ -1,2 +1,4 @@
 # Projeto-HubCount-PO
- primeiro-repositorio git e github
+ Primeiro-repositorio git e github
+
+Repositório criado para o projeto de Product Owner da HubCount.
