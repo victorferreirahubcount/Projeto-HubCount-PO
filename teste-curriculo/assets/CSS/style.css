@@ -1,0 +1,10 @@
+    img{
+        border-radius: 100%;
+        max-width: 200px;
+        border: 1px solid #000;
+    }
+
+    body{
+        background-color: #f7f7f7;
+
+    }
