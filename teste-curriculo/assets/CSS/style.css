@@ -1,20 +1,33 @@
     img{
         border-radius: 100%;
         max-width: 200px;
-        border: 1px solid #000;
+        border: 1px solid #f7f7f7;
     }
 
     body{
         background-color: #f7f7f7;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
         margin-left: 15%;
         margin-right: 15%;
+        white-space: inherit
     }
-
+        
     .formulario{
         font-style: normal;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
         color: #000;
         line-height: 3.0;
+        white-space: inherit 
     }
 
+    h1 {
+        font-size-adjust: 30px;
+    }
+       
+    h2 {
+        font-size: larger;    
+        margin-left: 15%;
+        margin-right: 15%;
+        white-space: inherit   
+    }
+    
