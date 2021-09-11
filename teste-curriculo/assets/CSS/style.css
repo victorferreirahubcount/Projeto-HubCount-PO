@@ -1,33 +1,41 @@
     img{
         border-radius: 100%;
         max-width: 200px;
-        border: 1px solid #f7f7f7;
+        border: 1px solid rgb(70, 45, 45);
     }
 
     body{
-        background-color: #f7f7f7;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
+        background-color: rgb(70, 45, 45);
+        font-family: 'Times New Roman', Times, serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         margin-left: 15%;
         margin-right: 15%;
-        white-space: inherit
+        white-space: inherit;
+        color: #ffff; 
     }
-        
+
     .formulario{
         font-style: normal;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
-        color: #000;
+        font-family: 'Times New Roman', Times, serif, 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
+        color: #ffff;
         line-height: 3.0;
         white-space: inherit 
     }
 
     h1 {
         font-size-adjust: 30px;
+        font-style: italic;
+        font-family: Verdana, Tahoma, sans-serif
+        color: #ffff;
+        text-align-last: center;
+        margin-left: 15%;
+        margin-right: 15%;
     }
        
     h2 {
-        font-size: larger;    
-        margin-left: 15%;
-        margin-right: 15%;
-        white-space: inherit   
+        font-size: larger;  
+        color: #ffff; 
+        white-space: normal;
+        text-align; left: 100;
     }
     
+   
